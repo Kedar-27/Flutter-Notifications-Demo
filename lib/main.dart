@@ -4,7 +4,7 @@ import 'package:web_socket_channel/web_socket_channel.dart';
 import 'package:web_socket_channel/status.dart' as statusCodes;
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 
-const URL = 'ws://139.59.50.81:3000';
+const URL = 'ws://localhost:3000';
 
 
 void main() =>
