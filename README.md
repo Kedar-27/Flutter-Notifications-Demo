@@ -1,2 +1,4 @@
-# Flutter-Notifications-Demo
-A demo flutter application for displaying notifications without internet.
+# flutternotificationsdemo
+
+A demo Flutter application for displaying notifications without internet.
+
